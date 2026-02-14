@@ -2,5 +2,9 @@
   "rejected_titles": [],
   "starred_papers": [],
   "sent_history": [],
-  "explored_paths": []
+  "explored_paths": [
+    "(works council) AND (co-determination OR employee participation)",
+    "(sectoral bargaining) AND (minimum wage OR wage setting)",
+    "(redundancy OR restructuring) AND (worker protection OR social plan)"
+  ]
 }
