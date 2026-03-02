@@ -3,14 +3,17 @@
   "starred_papers": [],
   "sent_history": [],
   "explored_paths": [
-    "(digital nomad) AND (employment law OR tax implications)",
-    "(climate change) AND (occupational health OR heat stress workers)",
-    "(whistleblower protection) AND (dismissal OR retaliation)",
-    "(sectoral bargaining) AND (minimum wage OR wage setting)",
     "(pension reform) AND (sustainability OR demographic change)",
-    "(works council) AND (co-determination OR employee participation)",
+    "(coworking space) AND (employment relationship OR occupational safety)",
     "(occupational safety) AND (artificial intelligence OR automation)",
+    "(sectoral bargaining) AND (minimum wage OR wage setting)",
+    "(digital nomad) AND (employment law OR tax implications)",
+    "(works council) AND (co-determination OR employee participation)",
+    "(universal basic income) AND (welfare OR social protection)",
     "(redundancy OR restructuring) AND (worker protection OR social plan)",
-    "(public procurement) AND (social clause OR labor standards)"
+    "(public procurement) AND (social clause OR labor standards)",
+    "(climate change) AND (occupational health OR heat stress workers)",
+    "(psychosocial risks) AND (workplace OR occupational health)",
+    "(whistleblower protection) AND (dismissal OR retaliation)"
   ]
 }
