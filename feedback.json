@@ -4,13 +4,16 @@
   "sent_history": [],
   "explored_paths": [
     "(hybrid work) AND (labor regulation OR legal framework)",
-    "(right to strike) AND (essential services OR comparative law)",
-    "(workplace surveillance) AND (remote work OR privacy rights)",
-    "(universal basic income) AND (welfare OR social protection)",
-    "(algorithm management) AND (worker rights OR labor law)",
-    "(public procurement) AND (social clause OR labor standards)",
     "(artificial intelligence) AND (employment OR labor market impact)",
+    "(algorithm management) AND (worker rights OR labor law)",
+    "(universal basic income) AND (welfare OR social protection)",
+    "(public procurement) AND (social clause OR labor standards)",
+    "(pension reform) AND (sustainability OR demographic change)",
+    "(workplace surveillance) AND (remote work OR privacy rights)",
+    "(works council) AND (co-determination OR employee participation)",
+    "(unfair dismissal) AND (comparative law OR European directive)",
     "(supply chain) AND (forced labor OR human rights due diligence)",
-    "(subcontracting) AND (joint liability OR worker protection)"
+    "(subcontracting) AND (joint liability OR worker protection)",
+    "(right to strike) AND (essential services OR comparative law)"
   ]
 }
