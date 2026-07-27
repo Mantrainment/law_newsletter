@@ -3,11 +3,14 @@
   "starred_papers": [],
   "sent_history": [],
   "explored_paths": [
-    "(social protection) AND (platform workers OR non-standard employment)",
     "(workplace surveillance) AND (remote work OR privacy rights)",
-    "(unfair dismissal) AND (comparative law OR European directive)",
-    "(transnational collective bargaining) AND (multinational OR European works council)",
     "(artificial intelligence) AND (employment OR labor market impact)",
-    "(work-related stress) AND (burnout OR regulation)"
+    "(transnational collective bargaining) AND (multinational OR European works council)",
+    "(work-related stress) AND (burnout OR regulation)",
+    "(public procurement) AND (social clause OR labor standards)",
+    "(coworking space) AND (employment relationship OR occupational safety)",
+    "(social protection) AND (platform workers OR non-standard employment)",
+    "(climate change) AND (occupational health OR heat stress workers)",
+    "(unfair dismissal) AND (comparative law OR European directive)"
   ]
 }
