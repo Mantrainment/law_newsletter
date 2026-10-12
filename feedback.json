@@ -3,14 +3,17 @@
   "starred_papers": [],
   "sent_history": [],
   "explored_paths": [
-    "(subcontracting) AND (joint liability OR worker protection)",
     "(work-related stress) AND (burnout OR regulation)",
-    "(transnational collective bargaining) AND (multinational OR European works council)",
     "(workplace surveillance) AND (remote work OR privacy rights)",
-    "(climate change) AND (occupational health OR heat stress workers)",
-    "(sectoral bargaining) AND (minimum wage OR wage setting)",
+    "(transnational collective bargaining) AND (multinational OR European works council)",
     "(pension reform) AND (sustainability OR demographic change)",
+    "(whistleblower protection) AND (dismissal OR retaliation)",
+    "(subcontracting) AND (joint liability OR worker protection)",
+    "(long-term care) AND (aging population OR social security)",
+    "(unfair dismissal) AND (comparative law OR European directive)",
     "(hybrid work) AND (labor regulation OR legal framework)",
-    "(whistleblower protection) AND (dismissal OR retaliation)"
+    "(climate change) AND (occupational health OR heat stress workers)",
+    "(remote work OR telework) AND (right to disconnect OR regulation)",
+    "(sectoral bargaining) AND (minimum wage OR wage setting)"
   ]
 }
